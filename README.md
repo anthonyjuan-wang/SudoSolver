@@ -1,2 +1,4 @@
 # SudoSolver
-uses backtracking algorithm to solve a Sudoku 
+uses backtracking algorithm to solve a Sudoku
+
+# Instructions
